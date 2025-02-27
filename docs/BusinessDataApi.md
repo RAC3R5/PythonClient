@@ -1,4 +1,4 @@
-# dataforseo_client.BusinessDataApi
+# dataforseo_client.BusinessDataApis
 
 All URIs are relative to *https://api.dataforseo.com*
 
